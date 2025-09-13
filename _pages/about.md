@@ -26,4 +26,4 @@ For more
 ------
 Should you have any further interests or questions, please feel free to contact me ☺.
 
-(__Email__: *haoliang2023@hotmail.com*)
+(__Email__: *haoliang@stu.xmu.edu.cn*)
