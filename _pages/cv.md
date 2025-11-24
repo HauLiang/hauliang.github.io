@@ -56,6 +56,12 @@ Publications
 ------
 <ol>
 
+<li><p> <b>An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses</b><br>
+<b>Liang, Hao</b> and Zhang, Wanrong and He, Xinlei and Wu, Kaishun and Xing, Xong*<br>
+in <i>40th Annual AAAI Conference on Artificial Intelligence (AAAI)</i>, 2026 <br>
+</p>
+</li>
+
 <li><p> <b>Learning an Interpretable End-to-End Network for Real-Time Acoustic Beamforming</b><br>
 <b>Liang, Hao</b> and Zhou, Guanxing, and Tu, Xiaotong*, and Jakobsson, Andreas and Ding, Xinghao and Huang, Yue<br>
 <i>Journal of Sound and Vibration (JSV)</i>, 2024 <br>
