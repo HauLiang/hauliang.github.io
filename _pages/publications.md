@@ -16,6 +16,14 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 <ol>
 
+<li><p> <b>An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses</b><br>
+<b>Liang, Hao</b> and Zhang, Wanrong and He, Xinlei and Wu, Kaishun and Xing, Xong*<br>
+<i>Journal of Sound and Vibration (JSV)</i>, 2024 <br>
+<a href="https://openreview.net/forum?id=Zs20eeNxdb" class="textlink" target="_blank">[pdf]</a>
+<a href="https://github.com/HauLiang/DPSGD-DC" class="textlink" target="_blank">[codes]</a>
+</p>
+</li>
+
 <li><p> <b>Learning an Interpretable End-to-End Network for Real-Time Acoustic Beamforming</b><br>
 <b>Liang, Hao</b> and Zhou, Guanxing, and Tu, Xiaotong*, and Jakobsson, Andreas and Ding, Xinghao and Huang, Yue<br>
 <i>Journal of Sound and Vibration (JSV)</i>, 2024 <br>
