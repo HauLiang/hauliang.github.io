@@ -12,7 +12,7 @@ You can also find my codes on my [Github repositories](https://github.com/HauLia
 
 Codes for Papers
 ------
-* [DPSGD-DC](https://github.com/HauLiang/DPSGD-DC) for the ["An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses"](https://openreview.net/forum?id=Zs20eeNxdb)
+* [DPSGD-DC](https://github.com/HauLiang/DPSGD-DC) for the ["An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses"](https://arxiv.org/abs/2502.17772)
 
 * [DAMAS-FISTA-Net](https://github.com/HauLiang/DAMAS-FISTA-Net) for the ["Learning an Interpretable End-to-End Network for Real-Time Acoustic Beamforming"](https://doi.org/10.1016/j.jsv.2024.118620)
 

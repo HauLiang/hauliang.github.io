@@ -57,7 +57,7 @@ Publications
 <ol>
 
 <li><p> <b>An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses</b><br>
-<b>Liang, Hao</b> and Zhang, Wanrong and He, Xinlei and Wu, Kaishun and Xing, Xong*<br>
+<b>Liang, Hao</b> and Zhang, Wanrong and He, Xinlei and Wu, Kaishun and Xing, Hong*<br>
 in <i>40th Annual AAAI Conference on Artificial Intelligence (AAAI)</i>, 2026 <br>
 </p>
 </li>

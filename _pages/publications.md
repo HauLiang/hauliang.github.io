@@ -79,9 +79,9 @@ Ding, Xinghao and <b>Liang, Hao</b> and Jakobsson, Andreas and Tu, Xiaotong* and
 <ol>
 
 <li><p> <b>An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses</b><br>
-<b>Liang, Hao</b> and Zhang, Wanrong and He, Xinlei and Wu, Kaishun and Xing, Xong*<br>
+<b>Liang, Hao</b> and Zhang, Wanrong and He, Xinlei and Wu, Kaishun and Xing, Hong*<br>
 <i>40th Annual AAAI Conference on Artificial Intelligence (AAAI)</i>, 2026 <br>
-<a href="https://openreview.net/forum?id=Zs20eeNxdb" class="textlink" target="_blank">[pdf]</a>
+<a href="https://arxiv.org/abs/2502.17772" class="textlink" target="_blank">[pdf]</a>
 <a href="https://github.com/HauLiang/DPSGD-DC" class="textlink" target="_blank">[codes]</a>
 </p>
 </li>
