@@ -1,7 +1,7 @@
 ---
 title: 'Summary of Markov Chains (2024)'
 date: 2024-09-30
-excerpt: "Here’s a summary of key points about Markov Chains."
+excerpt: "Here’s a summary of key points about <b>Markov Chains</b>."
 permalink: /read-list/2024/markov-chains/
 tags:
   - Stochastic Process
