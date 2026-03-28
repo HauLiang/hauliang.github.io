@@ -12,7 +12,7 @@ You can also find my codes on my [Github repositories](https://github.com/HauLia
 
 Codes for Papers
 ------
-* [DPWFL](https://github.com/HauLiang/DPWFL) for the ["When Differential Privacy Meets Wireless Federated Learning: An Improved Analysis for Privacy and Convergence"]
+* [DPWFL](https://github.com/HauLiang/DPWFL) for the ["When Differential Privacy Meets Wireless Federated Learning: An Improved Analysis for Privacy and Convergence"](https://arxiv.org/abs/2603.19040)
 
 * [DPSGD-DC](https://github.com/HauLiang/DPSGD-DC) for the ["An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses"](https://arxiv.org/abs/2502.17772)
 
