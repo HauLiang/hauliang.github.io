@@ -80,8 +80,8 @@ Ding, Xinghao and <b>Liang, Hao</b> and Jakobsson, Andreas and Tu, Xiaotong* and
 
 <li><p> <b>When Differential Privacy Meets Wireless Federated Learning: An Improved Analysis for Privacy and Convergence</b><br>
 Chen, Yaoling and <b>Liang, Hao*</b> and Tu, Xiaotong<br>
-in <i>2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, 2026 <br>
-<!-- <a href="https://arxiv.org/abs/2502.17772" class="textlink" target="_blank">[pdf]</a> -->
+in <i>2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i> Oral, 2026 <br>
+<a href="https://arxiv.org/abs/2603.19040" class="textlink" target="_blank">[pdf]</a>
 <a href="https://github.com/HauLiang/DPWFL" class="textlink" target="_blank">[codes]</a>
 </p>
 </li>

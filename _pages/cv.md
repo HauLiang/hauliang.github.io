@@ -58,7 +58,7 @@ Publications
 
 <li><p> <b>When Differential Privacy Meets Wireless Federated Learning: An Improved Analysis for Privacy and Convergence</b><br>
 Chen, Yaoling and <b>Liang, Hao*</b> and Tu, Xiaotong<br>
-in <i>2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, 2026 <br>
+in <i>2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i> Oral, 2026 <br>
 </p>
 </li>
 
