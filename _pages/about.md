@@ -16,11 +16,11 @@ I am currently a Ph.D student in the [Hong Kong University of Science and Techno
 
 Research interests
 ------
-My research interests lie in **decentralized federated learning**, **non-stationary signal processing** and **machine learning**, and in particular **sparse optimization** and **model-driven deep learning**
+My research interests lie in **private machine learning** and **optimization theory**, with a particular focus on **differential privacy** and **federated learning learning**.
 
 Hobbies
 ------
-Badminton, table tennis, music, running, and reading mystery story
+Badminton, table tennis, swimming, running, and reading mystery story.
 
 For more
 ------
