@@ -1,7 +1,7 @@
 ---
 title: 'Summary Table of Differential Privacy for Wireless Federated Learning (2026)'
 date: 2026-04-09
-excerpt: "Summary table for <b>differential privacy for wireless federated learning</b>."
+excerpt: "Summary table for <b>differentially private wireless federated learning</b>."
 permalink: /read-list/2026/differential-privacy-wireless-federated-learning-table/
 tags:
   - Differential Privacy
