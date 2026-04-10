@@ -24,5 +24,5 @@ tags:
 | 10   | "On the differential privacy in federated learning based on over-the-air computation", TWC, 2023 | block flat-fading          | NOMA         | smooth                                                       | n/a, need parameter estimation                               |
 | 11   | "On the privacy leakage of over-the-air federated learning over MIMO fading channels", Globecom, 2023 | time-invariant flat-fading | NOMA, MIMO   | n/a                                                          | private information extraction optimization through receiver beamformer |
 | 12   | "Differentially private over-the-air federated learning over MIMO fading channels", TWC, 2024 | time-invariant flat-fading | NOMA, MIMO   | smooth, strongly convex, bounded sample-wise gradient        | (1) use $M$ parallel linear estimateors to extract private information; (2) receive combiner, normalizing factor, power fraction factors |
-|      |                                                              |                            |              |                                                              |                                                              |
+|      |                                                              |                          
 
