@@ -16,7 +16,7 @@ I am currently a Ph.D student in the [Hong Kong University of Science and Techno
 
 Research interests
 ------
-My research interests lie in **private machine learning** and **optimization theory**, with a particular focus on **differential privacy** and **federated learning learning**.
+My research interests lie in **private machine learning** and **optimization theory**, with a particular focus on **differential privacy** and **federated learning**.
 
 Hobbies
 ------
