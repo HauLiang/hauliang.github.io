@@ -62,11 +62,6 @@ in <i>2026 IEEE International Conference on Communications Workshops (ICC Worksh
 </p>
 </li>
 
-<li><p> <b>When Differential Privacy Meets Wireless Federated Learning: An Improved Analysis for Privacy and Convergence</b><br>
-Chen, Yaoling and <b>Liang, Hao*</b> and Tu, Xiaotong<br>
-in <i>2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i> Oral, 2026 <br>
-</p>
-</li>
 
 <li><p> <b>An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses</b><br>
 <b>Liang, Hao</b> and Zhang, Wanrong and He, Xinlei and Wu, Kaishun and Xing, Hong*<br>
