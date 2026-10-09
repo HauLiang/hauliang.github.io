@@ -16,6 +16,14 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 <ol>
 
+<li><p> <b>Differential Privacy as a Perk: Federated Learning over Multiple-Access Fading Channels with a Multi-Antenna Base Station</b><br>
+<b>Liang, Hao</b> and Wen, Haifeng and Wu, Kaishun and Letaief, Khaled B. and Xing, Hong*<br>
+<i>IEEE Journal on Selected Areas in Communications (JSAC)</i>, 2026 <br>
+<a href="https://arxiv.org/abs/2510.23463" class="textlink" target="_blank">[pdf]</a>
+<a href="https://github.com/HauLiang/AirFL-DP" class="textlink" target="_blank">[codes]</a>
+</p>
+</li>
+
 <li><p> <b>Learning an Interpretable End-to-End Network for Real-Time Acoustic Beamforming</b><br>
 <b>Liang, Hao</b> and Zhou, Guanxing, and Tu, Xiaotong*, and Jakobsson, Andreas and Ding, Xinghao and Huang, Yue<br>
 <i>Journal of Sound and Vibration (JSV)</i>, 2024 <br>

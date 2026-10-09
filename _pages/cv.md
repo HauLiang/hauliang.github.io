@@ -62,6 +62,12 @@ in <i>2026 IEEE International Conference on Communications Workshops (ICC Worksh
 </p>
 </li>
 
+<li><p> <b>Differential Privacy for Free: Wireless Federated Learning over Multiple-Access Fading Channels</b><br>
+<b>Liang, Hao</b> and Wen, Haifeng and Wu, Kaishun and Xing, Hong*<br>
+in <i>2026 IEEE International Conference on Communications Workshops (ICC Workshops)</i>, 2026 <br>
+</p>
+</li>
+
 
 <li><p> <b>An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses</b><br>
 <b>Liang, Hao</b> and Zhang, Wanrong and He, Xinlei and Wu, Kaishun and Xing, Hong*<br>
