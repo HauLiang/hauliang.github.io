@@ -56,9 +56,9 @@ Publications
 ------
 <ol>
 
-<li><p> <b>Differential Privacy for Free: Wireless Federated Learning over Multiple-Access Fading Channels</b><br>
-<b>Liang, Hao</b> and Wen, Haifeng and Wu, Kaishun and Xing, Hong*<br>
-in <i>2026 IEEE International Conference on Communications Workshops (ICC Workshops)</i>, 2026 <br>
+<li><p> <b>Differential Privacy as a Perk: Federated Learning over Multiple-Access Fading Channels with a Multi-Antenna Base Station</b><br>
+<b>Liang, Hao</b> and Wen, Haifeng and Wu, Kaishun and Letaief, Khaled B. and Xing, Hong*<br>
+<i>IEEE Journal on Selected Areas in Communications (JSAC)</i>, 2026 <br>
 </p>
 </li>
 
